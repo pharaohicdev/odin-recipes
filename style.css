@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    color: coral;
+    text-align: center;
+}
+li {
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    list-style-type: none;
+}
+a {
+    color: darkgreen;
+    text-decoration: solid;
+}
+img {
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    margin: 16px;
+    display: block;
+    align-content: center;
+}
